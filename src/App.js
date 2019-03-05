@@ -14,7 +14,7 @@ class App extends Component {
     return (
 
         <div className="App">
-          <nav className="navbar navbar-expand-lg navbar-light  bg-secondary">
+          <nav className="navbar navbar-expand-lg navbar-light  bg-light">
             <Link className="navbar-brand" to="/"> <i className="fas fa-users-cog"></i> </Link>
             <ul className="navbar-nav">
               <li className="nav-item">
