@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
@@ -27,4 +28,9 @@ code {
 
 .iconSize {
   font-size: 3em;
+}
+
+.backcolor {
+  background-color:  #f0f5f5;
+
 }

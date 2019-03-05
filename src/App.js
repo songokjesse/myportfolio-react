@@ -31,6 +31,7 @@ class App extends Component {
               </li>
             </ul>
           </nav>
+
           <Switch>
             <Route exact path='/' component={Index} />
             <Route  path='/resume' component={Resume}/>

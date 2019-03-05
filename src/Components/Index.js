@@ -13,10 +13,10 @@ class Index extends Component {
                             <p className="lead">Laravel &nbsp; Nodejs &nbsp; Express &nbsp; Django &nbsp; Flask &nbsp; Vuejs &nbsp; Reactjs &nbsp; Postgresql &nbsp; MongoDB &nbsp; Mysql &nbsp; (Docker & Kubernetes )</p>
                             <p className="lead">
                                 <span className="iconSize">
-                                <i className="fab fa-linkedin"></i> &nbsp;
-                                <i className="fab fa-github"></i> &nbsp;
-                                <i className="fab fa-twitter-square"></i> &nbsp;
-                                <i className="fab fa-medium"></i>
+                                    <a href="https://www.linkedin.com/in/jesse-songok-3524a060/" rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin"></i></a>&nbsp;
+                                    <a href="https://github.com/songokjesse" rel="noopener noreferrer" target="_blank"><i className="fab fa-github"></i></a>&nbsp;
+                                    <a href="https://twitter.com/wezeshafrica" rel="noopener noreferrer" target="_blank"><i className="fab fa-twitter-square"></i></a>&nbsp;
+                                    <a href="https://www.linkedin.com/in/jesse-songok-3524a060/" rel="noopener noreferrer" target="_blank"><i className="fab fa-medium"></i></a>
                                 </span>
                             </p>
                     </div>
