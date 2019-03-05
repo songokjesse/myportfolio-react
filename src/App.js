@@ -34,9 +34,9 @@ class App extends Component {
 
           <Switch>
             <Route exact path='/' component={Index} />
-            <Route exact path='/resume' component={Resume}/>
-            <Route exact path='/projects' component={Projects} />
-            <Route exact path='/contacts' component={Contacts} />
+            <Route  path='/resume' component={Resume}/>
+            <Route  path='/projects' component={Projects} />
+            <Route  path='/contacts' component={Contacts} />
           </Switch>
         </div>
     );
