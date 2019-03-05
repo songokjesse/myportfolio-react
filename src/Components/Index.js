@@ -16,7 +16,7 @@ class Index extends Component {
                                     <a href="https://www.linkedin.com/in/jesse-songok-3524a060/" rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin"></i></a>&nbsp;
                                     <a href="https://github.com/songokjesse" rel="noopener noreferrer" target="_blank"><i className="fab fa-github"></i></a>&nbsp;
                                     <a href="https://twitter.com/wezeshafrica" rel="noopener noreferrer" target="_blank"><i className="fab fa-twitter-square"></i></a>&nbsp;
-                                    <a href="https://www.linkedin.com/in/jesse-songok-3524a060/" rel="noopener noreferrer" target="_blank"><i className="fab fa-medium"></i></a>
+                                    <a href="https://medium.com/@jessesongok" rel="noopener noreferrer" target="_blank"><i className="fab fa-medium"></i></a>
                                 </span>
                             </p>
                     </div>
