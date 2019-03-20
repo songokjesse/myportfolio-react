@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import { Switch, Route, Link } from 'react-router-dom'; // import the react-router-dom components
+import { BrowserRouter, Switch, Route, Link } from 'react-router-dom'; // import the react-router-dom components
 
 
 import Index from '../src/Components/Index';
@@ -12,7 +12,7 @@ import Contacts from '../src/Components/Contacts';
 class App extends Component {
   render() {
     return (
-
+ <BrowserRouter>
         <div className="App">
           <nav className="navbar navbar-expand-lg navbar-light  bg-light">
             <Link className="navbar-brand" to="/"> <i className="fas fa-users-cog"></i> </Link>
@@ -39,6 +39,7 @@ class App extends Component {
             <Route  path='/contacts' component={Contacts} />
           </Switch>
         </div>
+     </BrowserRouter>
     );
   }
 }
